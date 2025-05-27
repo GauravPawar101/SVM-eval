@@ -50,7 +50,7 @@ All saved in the `plots/` directory.
 
 ```bash
 git clone https://github.com/Gauravpawar101/svm-eval.git
-cd pulsar-svm-analysis
+cd svm-eval
 pip install -r requirements.txt
 python main.py
 ```
