@@ -49,7 +49,7 @@ All saved in the `plots/` directory.
 ## How to Run
 
 ```bash
-git clone https://github.com/Gauravpawar101/pulsar-svm-analysis.git
+git clone https://github.com/Gauravpawar101/svm-eval.git
 cd pulsar-svm-analysis
 pip install -r requirements.txt
 python main.py
