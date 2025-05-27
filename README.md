@@ -49,7 +49,7 @@ All saved in the `plots/` directory.
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/pulsar-svm-analysis.git
+git clone https://github.com/Gauravpawar101/pulsar-svm-analysis.git
 cd pulsar-svm-analysis
 pip install -r requirements.txt
 python main.py
@@ -62,8 +62,8 @@ pandas, numpy, matplotlib, seaborn
 scikit-learn (SVC, GridSearchCV, StandardScaler)
 
 joblib (for model caching)
-
-#Project Structure
+```
+Project Structure
 pulsar-svm-analysis/
 ├── data/
 │   └── pulsar_dataset.csv
@@ -73,3 +73,4 @@ pulsar-svm-analysis/
 │   └── ...
 ├── All_svm.py
 └── README.md
+```
